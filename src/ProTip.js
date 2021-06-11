@@ -1,5 +1,5 @@
 import React from 'react';
-import { makeStyles, ColorFormat, ColorObject } from '@material-ui/core/styles';
+import { makeStyles, ColorFormat, ColorObject as ColorObjectAlias } from '@material-ui/core/styles';
 import Link from '@material-ui/core/Link';
 import SvgIcon from '@material-ui/core/SvgIcon';
 import Typography from '@material-ui/core/Typography';
